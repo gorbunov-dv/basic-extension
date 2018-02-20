@@ -9,7 +9,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        Hello World 1
+        Hello World1
       </div>
     );
   }
