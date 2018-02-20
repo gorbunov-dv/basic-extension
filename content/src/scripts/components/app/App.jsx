@@ -10,11 +10,11 @@ class App extends Component {
   }
 
   componentDidMount() {
-    document.addEventListener('click', () => {
+    setInterval(() => {
       this.setState({
         count: this.state.count + 1
       });
-    })
+    }, 1000);
   }
 
   render() {
