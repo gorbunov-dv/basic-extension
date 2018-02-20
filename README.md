@@ -1,1 +1,2 @@
-Практика построения React-Redux-Chrome-Extension приложения
+Базовая структура React-Redux-Chrome-Extension by Tyler Shaddix.
+
